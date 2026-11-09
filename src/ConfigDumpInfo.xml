@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Подразделения" id="8046bd7d-cef3-4965-8f29-a4e866d9112a" configVersion="677e99a3e924c04aaef8162c85e69bfc00000000"/>
+		<Metadata name="Catalog.Сотрудники" id="d16a4951-3b1e-455b-b460-08f8ec3bad95" configVersion="ad17a7d7d380a642b43c42530b467e3c00000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.Email" id="551b4d94-b8ac-451e-843c-26b1e0be0e2a"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.ДатаРождения" id="bded49c2-b9f5-498f-8252-d96c207582a6"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Подразделение" id="d9aaeda6-a1d0-41ea-841f-a76e84e85932"/>
+		</Metadata>
+		<Metadata name="Configuration.КадрыИДоступы" id="6b46298a-0d54-46ee-9b20-0cec1d87c62c" configVersion="744d0e01e7edf44aa1b5d3d7fab18fa600000000"/>
+		<Metadata name="Language.Русский" id="7db7ccf2-c2b9-4ee6-937f-410363ed0dcd" configVersion="de76b3d928aba74c8e8a65ef415b129d00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
